@@ -95,6 +95,3 @@ FROM bitnami/kube-state-metrics:2.4.1-debian-10-r7
 
 # Tags: 2.4.1-debian-10-r6
 FROM bitnami/kube-state-metrics:2.4.1-debian-10-r6
-
-# Tags: 2.4.1-debian-10-r5
-FROM bitnami/kube-state-metrics:2.4.1-debian-10-r5
