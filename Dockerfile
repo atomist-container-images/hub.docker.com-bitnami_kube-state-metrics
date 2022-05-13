@@ -1,12 +1,42 @@
-# Tags: latest, 2.4.2-debian-10-r56, 2.4.2, 2-debian-10, 2
+# Tags: latest, 2.4.2-debian-10-r66, 2.4.2, 2-debian-10, 2
 FROM bitnami/kube-state-metrics:latest
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r56
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r66
 FROM bitnami/kube-state-metrics:2.4.2
 FROM bitnami/kube-state-metrics:2-debian-10
 FROM bitnami/kube-state-metrics:2
 
 # Tags: _
 FROM bitnami/kube-state-metrics:_
+
+# Tags: 2.4.2-debian-10-r65
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r65
+
+# Tags: 2.4.2-debian-10-r64
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r64
+
+# Tags: 2.4.2-debian-10-r63
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r63
+
+# Tags: 2.4.2-debian-10-r62
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r62
+
+# Tags: 2.4.2-debian-10-r61
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r61
+
+# Tags: 2.4.2-debian-10-r60
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r60
+
+# Tags: 2.4.2-debian-10-r59
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r59
+
+# Tags: 2.4.2-debian-10-r58
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r58
+
+# Tags: 2.4.2-debian-10-r57
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r57
+
+# Tags: 2.4.2-debian-10-r56
+FROM bitnami/kube-state-metrics:2.4.2-debian-10-r56
 
 # Tags: 2.4.2-debian-10-r55
 FROM bitnami/kube-state-metrics:2.4.2-debian-10-r55
@@ -64,36 +94,3 @@ FROM bitnami/kube-state-metrics:2.4.2-debian-10-r38
 
 # Tags: 2.4.2-debian-10-r37
 FROM bitnami/kube-state-metrics:2.4.2-debian-10-r37
-
-# Tags: 2.4.2-debian-10-r36
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r36
-
-# Tags: 2.4.2-debian-10-r35
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r35
-
-# Tags: 2.4.2-debian-10-r34
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r34
-
-# Tags: 2.4.2-debian-10-r33
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r33
-
-# Tags: 2.4.2-debian-10-r32
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r32
-
-# Tags: 2.4.2-debian-10-r31
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r31
-
-# Tags: 2.4.2-debian-10-r30
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r30
-
-# Tags: 2.4.2-debian-10-r29
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r29
-
-# Tags: 2.4.2-debian-10-r28
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r28
-
-# Tags: 2.4.2-debian-10-r27
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r27
-
-# Tags: 2.4.2-debian-10-r26
-FROM bitnami/kube-state-metrics:2.4.2-debian-10-r26
